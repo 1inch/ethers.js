@@ -51,7 +51,7 @@
     "typescript": "^2.9.1",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0",
-    "web3-providers-http": "1.0.0-beta.35"
+    "web3-providers-http": "4.1.0"
   },
   "browser": "./dist/ethers.min.js",
   "keywords": [
